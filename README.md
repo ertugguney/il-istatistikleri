@@ -3,7 +3,7 @@
 * Çalışmada python programlama dili plotly ve dash kütüphanleri kullanılmıştır
 * Çalışmada kullanılan diğer kütüphanelere requirements.txt dosyasından ulaşılabilir
 * Çalışma Heroku'da deploy edilmiştir.
-* Çalışma sonucuna [Türkiye İl İstatistikleri](https://ilistatistikleritrakyaka250921.herokuapp.com/) sitesinden ulaşılabilir:
+* Çalışma sonucuna [Türkiye İl İstatistikleri](https://ilistatistikleritrakyaka250921.herokuapp.com/) sitesinden ulaşılabilir.
 
 
 
